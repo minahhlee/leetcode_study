@@ -1,1 +1,1 @@
-# LeetCode_study
+# leetcode_study
